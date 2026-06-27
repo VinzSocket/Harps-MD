@@ -303,7 +303,7 @@ Harps-MD/
 
 ### Prasyarat
 
-- Node.js v18+
+- Node.js v20+
 - npm
 - Git
 
@@ -311,7 +311,7 @@ Harps-MD/
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/Kevin-b2t/Harps-MD.git
+git clone https://github.com/VinzSocket/Harps-MD.git
 cd Harps-MD
 
 # 2. Install dependensi
